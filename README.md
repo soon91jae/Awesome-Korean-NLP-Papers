@@ -151,6 +151,8 @@ Please, do not hesitate to create an issue. It always helps this repository to b
 | 2017. 6.  | KCC                      | [CNN을 이용한 대화와 같은 짧은 문장에서 개체명 인식](http://www.eiric.or.kr/community/post2.php?m=view&gubun=201704&num=9018&pg=2&seGubun=9&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=) | 88.56                 |                                          |
 | 2017. 6.  | KCC                      | [순환 신경망과 합성곱 신경망을 이용한 개체명 인식](http://www.eiric.or.kr/community/post2.php?m=view&gubun=201704&num=8762&pg=4&seGubun=9&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=) | 75.53                 |                                          |
 | 2017. 10. | HCLT                     | [한국어 특질을 고려한 단어 벡터의<br />Bi-LSTM 기반 개체명 모델 적용](http://semanticweb.kaist.ac.kr/home/images/e/ea/%ED%95%9C%EA%B5%AD%EC%96%B4_%ED%8A%B9%EC%A7%88%EC%9D%84_%EA%B3%A0%EB%A0%A4%ED%95%9C_%EB%8B%A8%EC%96%B4_%EB%B2%A1%ED%84%B0%EC%9D%98_Bi-LSTM_%EA%B8%B0%EB%B0%98_%EA%B0%9C%EC%B2%B4%EB%AA%85_%EB%AA%A8%EB%8D%B8_%EC%A0%81%EC%9A%A9.pdf) |                       |                                          |
+| 2017. 11. | CIKM 2017                 | [A Robust Named-Entity Recognition System Using Syllable Bigram Embedding with Eojeol Prefix Information
+](https://dl.acm.org/citation.cfm?id=3133105) | 85.53                 |  PLODT                                        |
 | 2017. 12. | 정보과학회논문지                 | [자질 보강과 양방향 LSTM-CNN-CRF<br />기반의 한국어 개체명 인식 모델](http://www.earticle.net/Article.aspx?sn=317610) | 89.40                 |                                          |
 
 
